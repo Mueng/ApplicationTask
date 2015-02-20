@@ -1,0 +1,42 @@
+﻿<UserControl x:Class="TaskManager.View.Other.ToolbarControl"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:TaskManager.ViewModel"
+             mc:Ignorable="d" 
+             Height="25" d:DesignWidth="500" Name="MenuControl">
+    <Grid Background="#353535">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="1*"/>
+            <ColumnDefinition Width="Auto"/>
+            <ColumnDefinition Width="1*"/>
+        </Grid.ColumnDefinitions>
+            <StackPanel Grid.Column="0" Orientation="Horizontal">
+                <!-- Логотип -->
+            </StackPanel>
+        
+        <Border Name="panelofButtons" Grid.Column="1" Width="430">
+            <StackPanel Orientation="Horizontal" HorizontalAlignment="Left">
+                <Button Width="60" Command="{Binding SwitchMenuCommand}" CommandParameter="{x:Static local:Page.TaskManager}">
+                    <Button.Template>
+                        <ControlTemplate>
+                            <Border Margin="0,5,2,5" BorderBrush="White" BorderThickness="2,0,2,0" CornerRadius="0">
+                                <StackPanel Orientation="Horizontal" VerticalAlignment="Center">
+                                    <TextBlock Width="10"/>
+                                    <TextBlock Foreground="White" FontSize="12" FontFamily="Arial">Details</TextBlock>
+                                </StackPanel>
+                            </Border>
+                        </ControlTemplate>
+                    </Button.Template>
+              </Button>
+                <Button Width="60" Command="{Binding SwitchMenuCommand}" CommandParameter="{x:Static local:Page.Service}"> 
+                    
+                </Button>
+                
+                
+                   </StackPanel>
+        </Border>
+        
+        </Grid>
+</UserControl>

@@ -1,1 +1,16 @@
-D:\toWork\GitHubCode\ApplicationTask\TaskManager\TaskManager\bin\Debug\TaskManager.exe.config
+D:\Read\ApplicationTask\TaskManager\TaskManager\obj\Debug\View\MainWindow.baml
+D:\Read\ApplicationTask\TaskManager\TaskManager\obj\Debug\View\MainWindow.g.cs
+D:\Read\ApplicationTask\TaskManager\TaskManager\obj\Debug\App.g.cs
+D:\Read\ApplicationTask\TaskManager\TaskManager\obj\Debug\TaskManager_MarkupCompile.cache
+D:\Read\ApplicationTask\TaskManager\TaskManager\obj\Debug\TaskManager.g.resources
+D:\Read\ApplicationTask\TaskManager\TaskManager\obj\Debug\TaskManager.Properties.Resources.resources
+D:\Read\ApplicationTask\TaskManager\TaskManager\obj\Debug\TaskManager.csproj.GenerateResource.Cache
+D:\Read\ApplicationTask\TaskManager\TaskManager\bin\Debug\TaskManager.exe
+D:\Read\ApplicationTask\TaskManager\TaskManager\bin\Debug\TaskManager.pdb
+D:\Read\ApplicationTask\TaskManager\TaskManager\obj\Debug\TaskManager.exe
+D:\Read\ApplicationTask\TaskManager\TaskManager\obj\Debug\TaskManager.pdb
+d:\Read\ApplicationTask\TaskManager\TaskManager\obj\Debug\TaskManager_MarkupCompile.lref
+d:\Read\ApplicationTask\TaskManager\TaskManager\obj\Debug\View\Other\ToolbarControl.g.cs
+d:\Read\ApplicationTask\TaskManager\TaskManager\obj\Debug\View\Other\ToolbarControl.baml
+d:\Read\ApplicationTask\TaskManager\TaskManager\obj\Debug\TaskManager.csprojResolveAssemblyReference.cache
+d:\Read\ApplicationTask\TaskManager\TaskManager\obj\Debug\GeneratedInternalTypeHelper.g.cs
